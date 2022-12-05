@@ -172,6 +172,13 @@ body {
        }
        
        
+       
+       .mypic img {
+         width: 100%;
+      height: auto;
+       }
+       
+       
        @media (min-width: 800px) {
            .hero {
                flex-direction: row;
@@ -202,8 +209,12 @@ body {
            .projectCard {
                max-width: 20%;
            }
+           
+           
        }
        
-
+       
+       
+       
 
        
