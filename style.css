@@ -37,7 +37,7 @@ body {
 
 .heroImage img {
     border-radius: 6rem;
-    box-shadow: 7px 7px #FFD1D1;
+    box-shadow: 7px 7px #A555EC;
     width: 100%;
     height: auto;
 }
@@ -50,7 +50,7 @@ body {
 }
 
 .heroName {
-    color: #FFD1D1;
+    color: #A555EC;
     font-size: 2.5rem;
     text-transform: uppercase;
 }
@@ -70,17 +70,17 @@ body {
 .button {
     background-color: #fff;
     padding: 1rem;
-    border: 1px solid #FFD1D1;
+    border: 1px solid #A555EC;
     border-radius: 25px;
     font-size: 0.9rem;
     font-weight: 700;
-    color: #200439;
+    color: #A555EC;
     text-decoration: none;
-    box-shadow: 8px 8px 4px #FFD1D1;
+    box-shadow: 8px 8px 4px #A555EC;
 }
 
 .button:hover {
-    background-color: #FFD1D1;
+    background-color: #A555EC;
     color: #fff;
     transform: scale(1.5);
     /* (150% zoom - Note if the zoom is to large, it will go outside of the viewport)*/
@@ -94,12 +94,12 @@ body {
 }
 
 .projectCard {
-    background-color: #FFD1D1;
+    background-color: #A555EC;
     color: #fff;
     margin: 4rem 3rem;
     padding: 0.5rem 2rem;
     text-align: center;
-    border: 1px solid #FFD1D1;
+    border: 1px solid #A555EC;
     border-radius: 1rem;
 
 }
@@ -148,16 +148,16 @@ body {
 
 footer {
     text-align: center;
-    color: #FFD1D1;
+    color: #A555EC;
     margin: 10rem 0;
-    border-top: 1px solid #D0C9C0;
+    border-top: 1px solid #A555EC;
 }
 
 .copyright {
     margin: 1rem;
     padding: 1rem;
     font-size: 1rem;
-    color: #FFD1D1;
+    color: #A555EC;
     display: block;
 }
 
@@ -174,7 +174,7 @@ footer {
 .me {
     margin: 5rem;
     text-align: center;
-    color: #FFD1D1;
+    color: #A555EC;
     
 }
 
